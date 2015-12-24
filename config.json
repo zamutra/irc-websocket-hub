@@ -1,0 +1,7 @@
+{
+	"irc": {
+		"server": "irc.irchighway.net",
+		"nick": "aiemki",
+		"channels": ["#aiemki"]
+	}
+}
